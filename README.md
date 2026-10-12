@@ -14,7 +14,7 @@
 ![IDE Installation](IDE.png)
 
 1. Install Git. Video --> [Git | How to install git on Windows](https://youtu.be/P1bh5qS63qQ)
-   ### 2. GIT Installation
+   ### 3. GIT Installation
 
 ![GIT Installation](GIT.png)
 1. The screenshot of the result/output must be displayed at your `Readme.md`.
